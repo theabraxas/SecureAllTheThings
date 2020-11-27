@@ -1,0 +1,22 @@
+* Policies
+** Acceptable use, infosec policy, IRP, etc.
+** Common language/sections (eg. 'vulnerability management "policy"', statements which can be condensed to a paragraph or section of an infosec policy or expanded to a full-length policy/procedure on their own)
+* Procedures
+** How to do common tasks - whether it's basic network scans or identifying unknown assets to complex procedures such as change control or security governance.
+* Configurations
+** Windows/Mac/*nix basic security configs
+** Stricter configs with notes on 'what breaks' when enabled
+** Application configurations - Group Policies, .cfg files, registry tweaks/scripts
+** Software/platform configs - 'best practices' for point in time of various solutions such as an AV with notes/considerations about the most essential controls
+* Scripts
+** Scripts to verify 'baselines' with the ability to modify what your baseline actually is
+** Scripts to identify just what it is you're hoping to secure (network/vuln/tech discovery; best practice checks, etc)
+** Discovery and validation tools
+* Solutions
+** 'Ready-to-go' deployments/containers for critical security solutions (open source as much as possible)
+** Standard designs for the most common security solutions.
+* Knowledge repository
+** Links to and custom articles on complex topics which provide some common criteria for measuring risk and identifying solution paths.
+** Helpful articles on security related topics
+* Worksheets, diagrams, forms and maturity resources
+** Documents to fill out to track progress, identify risk areas, map regulatory requirements, etc.
