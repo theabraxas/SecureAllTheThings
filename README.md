@@ -3,7 +3,7 @@ Secure all the things
 
 # What is it?
 
-This project is intended to help companies (small to pretty large) start or significantly mature or their security programs. It will contain sample policies, procedures, and program designs as well as baselines for common systems and software, scripts for common tasks and health checks, configurations/notes for a wide variety of security solutions, and many other resources. 
+This project is intended to help companies (small to  large) start or significantly mature or their security programs. It will contain policies, procedures, and program designs as well as baselines for common systems and software, scripts for frequent tasks or health checks, configurations/notes for a wide variety of security solutions, and many other resources. 
 
 # Why?
 
