@@ -1,0 +1,78 @@
+Secure Baselines
+* Windows (10, srv 2012, 2016, 2019)
+---- Group Policies
+---- Registry Cfgs
+---- SCCM Cfgs
+---- KACE Cfgs
+
+* *nix
+---- Debian Based
+---- RHEL Based
+
+* On-prem Infrastructure
+---- Cisco
+---- VMware
+---- F5/Palo/Fortinet
+
+
+Best Practice Configurations
+
+* Windows
+---- Logging
+---- App Control
+
+* Linux
+---- Logging
+
+* Firewalls
+---- Brand independent
+---- Paloalto
+---- Fortinet
+---- Cisco
+
+* DMZs
+
+* VPNs
+
+* SCCM
+
+* Azure (license based)
+
+Complete walkthroughs
+* SIEM
+---- Graylog
+* NAC
+* Imaging
+* GRC
+* Patch Management
+* Asset Management
+* Data Classification
+* Data Management
+* SDLC
+* MFA
+* Honeypots
+* Sandboxes
+* BCP/Risk Mgmt Program
+
+Policies
+* AUP
+* ISP
+* IRP
+* MDM
+* SDLC
+* Data Classificiation/Mgmt
+
+Frameworks & Framework Guidance
+* Simple Security Methodology (this!)
+* ISO27001
+* NIST800-53
+* NIST800-171
+* SOX
+* HIPAA
+* GDPR
+* PCI
+* CIS
+
+Worksheets
+* CIS/other Mapping (Policies)
+* CIS/other Mapping (Core tech -- desktop/server/identity/data)
