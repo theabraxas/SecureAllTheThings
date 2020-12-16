@@ -1,0 +1,9 @@
+OpenVAS is an open-source vulnerability scanner similar to commercial alternatives like Tenable Nessus, Qualys, and others. 
+
+Thier website - https://www.openvas.org/ - provides a lot of great information on the platform. This document will cover the following:
+
+* Single Node Deployment
+* Multiple Node Deployment
+* Scan tuning
+* Updates & system management
+* Scanning strategies for different networks.
