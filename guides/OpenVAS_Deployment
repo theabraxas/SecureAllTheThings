@@ -2,8 +2,11 @@ OpenVAS is an open-source vulnerability scanner similar to commercial alternativ
 
 Thier website - https://www.openvas.org/ - provides a lot of great information on the platform. This document will cover the following:
 
+Excellent install guide - https://hedgehogsecurity.co.uk/blog/2020/10/07/installing-openvas/ (Oct 2020)
+
 * Single Node Deployment
 * Multiple Node Deployment
 * Scan tuning
 * Updates & system management
 * Scanning strategies for different networks.
+
