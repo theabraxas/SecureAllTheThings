@@ -33,19 +33,44 @@ Best Practice Configurations
 * DMZs
 
 * VPNs
+---- MFA
+---- Device Compliance Checks
+---- ZeroTier
 
 * SCCM
+---- Desktop-like roles & admin roles
 
 * Azure (license based)
 
 Complete walkthroughs
 * SIEM
 ---- Graylog
+---- Splunk
+---- SIEMonster
+---- ELK
+---- Wazuh
+
 * NAC
+---- PacketFence
+
 * Imaging
+---- KACE
+---- SCCM
+
 * GRC
+---- Eramba
+---- govready-q
+
 * Patch Management
+---- WSUS
+---- SCCM
+---- KACE
+---- Ansible/Puppet/Chef/Yum/Apt
+
 * Asset Management
+---- NMAP
+---- Rumble
+
 * Data Classification
 * Data Management
 * SDLC
