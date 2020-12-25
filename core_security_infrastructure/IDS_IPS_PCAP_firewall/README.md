@@ -21,3 +21,6 @@ We'll cover several platforms in these guides, click below for resources.
 * Suricata - https://www.sealingtech.com/blog/adventures-in-suricata-part-1-low-cost-intrusion-detection-system/
 * Suricata Home Setup - https://vdalabs.com/2018/06/18/lessons-for-the-enterprise-from-running-suricata-at-home/
 * Suricata & pfSense - https://hurricanelabs.com/splunk-tutorials/your-all-in-one-guide-to-setting-up-pfsense-and-suricata-in-splunk/
+* Security Onion Setup - https://sathisharthars.wordpress.com/2014/01/28/setting-up-security-onion-intrusion-detection-and-network-security-monitoring/
+* pfSense Setup - https://www.itpro.com/security/firewalls/355328/how-to-build-your-own-firewall-with-pfsense
+* Bro/Zeek Documentation - https://docs.zeek.org/en/master/
