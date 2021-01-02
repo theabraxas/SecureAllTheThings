@@ -8,3 +8,9 @@ This section focuses on some of the most impactful configurations, systems, and 
 * Minimize public exposure
 * Reduce admin accounts
 * Phishing/ransomware defense
+
+# Key Criteria for where to start
+* Windows / nix / OSX count
+* Public exposure & risk
+* Client vs Server split
+* Cloud services vs on-prem/local services
