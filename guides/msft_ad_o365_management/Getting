@@ -1,0 +1,24 @@
+# Getting Started
+
+
+# Tasks to get started
+
+-- AD Health Check
+	Privileged Group Inventory
+	User Inventory
+	Computer Inventory
+	Group Inventory
+	Local Administrator Tracking
+	GPO inventory
+	Software Inventory
+
+-- Essential Logging
+	Logon/Logoff
+	Password Changes
+	Group Membership Changes
+	New/Removed/Modified User/Group/Computer/Group Policies
+	Local Administrator Changes
+	Add/Remove/Modify/Access Files
+	RDP Sessions
+	Powershell Command Logging
+	Program Execution	
