@@ -1,6 +1,17 @@
 # Overview
 This section focuses on some of the most impactful configurations, systems, and practices to bring the most security value with the fewest actions.
 
+# Questions
+
+Size of organization
+Size of external assets/perimeter
+Types of valued assets 
+Platforms in use
+Goals/Objectives
+Size of IT, IS, Compliance, Legal, HR, and so on.
+Basic technologies questionnaire.
+
+
 # Top 5(?)
 * Multi-factor authentication as much as you can! 
 * Monitor breached accounts and force password resets whenever accounts are potentially breached
@@ -14,3 +25,12 @@ This section focuses on some of the most impactful configurations, systems, and 
 * Public exposure & risk
 * Client vs Server split
 * Cloud services vs on-prem/local services
+
+# Key artifacts to start with
+Define IR levels
+Define asset types & risks
+List of perimeter assets
+List of internal networks
+List of sites/mapped subnets
+Baseline compliance checklists
+

@@ -1,0 +1,14 @@
+How do you know something might be bad?
+* Logging
+* Alerting
+* Tooling
+
+What should you do with that information?
+* Enrichments
+* IOCs
+* Threat Intel
+* Correllation & exposure/other devices with same IOC
+
+Now that you have context, what should you do next?
+* How severe does it look?
+* What is the appropriate next step (reporting up, ending the exposure, collecting evidence, getting answers, etc.)
