@@ -4,6 +4,7 @@ Secure Baselines
 ---- Registry Cfgs
 ---- SCCM Cfgs
 ---- KACE Cfgs
+---- Intune Cfgs
 
 * *nix
 ---- Debian Based
@@ -56,15 +57,18 @@ Complete walkthroughs
 * Imaging
 ---- KACE
 ---- SCCM
+---- AutoPilot/InTune
 
 * GRC
 ---- Eramba
 ---- govready-q
+---- SimpleRisk
 
 * Patch Management
 ---- WSUS
 ---- SCCM
 ---- KACE
+---- InTune
 ---- Ansible/Puppet/Chef/Yum/Apt
 
 * Asset Management
@@ -72,11 +76,20 @@ Complete walkthroughs
 ---- Rumble
 
 * Data Classification
+---- Azure Information Protection/Server
+---- On-prem Windows File Classification Server
+
 * Data Management
+
 * SDLC
+
 * MFA
+
 * Honeypots
+
 * Sandboxes
+---- cukoo sandbox
+
 * BCP/Risk Mgmt Program
 
 Policies
