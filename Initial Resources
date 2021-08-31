@@ -20,3 +20,25 @@
 ** Helpful articles on security related topics
 * Worksheets, diagrams, forms and maturity resources
 ** Documents to fill out to track progress, identify risk areas, map regulatory requirements, etc.
+
+
+Getting Started:
+
+There are two key 'getting started' options for security to be done in a managed way. 1) Start securing things and discover priorities along the way. 2) Prioritize what is important & then start securing things.
+
+Option 1 may be ideal for smaller organizations or specific departments where there is not an exhaustive/unmaintainable list of things to manage but comes at the risk of potentially prioritizing the wrong things. The second option is to find what is important first and then start taking action on the most critical items. The downside, when you don't have a lot of pre-existing security knowledg or practices, is that you may not actually 'secure things' until a ways down the line.
+
+I generally would recommend option #2, especially if there is decent organizational knowledge available & some buy-in from the involved parties. The way I would approach this is the following:
+1) Read some guidance from NIST on risk management (but summarize it here).
+2) Read some guidance on what NIST CSF & CIS CSC are.
+3) Deliniate 'maturity', 'priorities', 'risks' and 'remediations' in a simple fashion; present this to the org.
+4) Create a simple risk intake process.
+5) Fill out the NIST CSF with the organization; map the CIS CSC controls as appropriate. 
+6) Determine which CSF/CSC controls were of the highest concerns or tied to critical risks; 
+7) Put the critical risk remediations & maturity goals on a roadmap. 
+8) Fix it.
+9) Establish appropriate cadenses & ways to track things like justifications, budget requests, progress.
+
+Recommend some NIST & CIS guidance (least/most important controls) as well as provide a list of 'reference' risks to track and a procedure for assessing them.
+Provide a spreadsheet for some of this.
+Provide some sample slides for some of this.
