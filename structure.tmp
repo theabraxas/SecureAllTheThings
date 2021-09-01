@@ -1,0 +1,21 @@
+Objects:
+* Tutorials
+* Descriptions
+* Pathways
+* Configurations
+* Scripts
+* Samples
+* Policies/Procedures/Standards
+* Processes
+
+Running a security program involves a lot of things.
+
+- Risk Management should drive much of the project/initiative approach to maturation of a program & emphasis on the right things.
+
+- Policies/Standards/etc should be available in an organization to offer guidance on how to act and what is appropriate both technically and at a high/nontechnical level. e.g. "Don't pirate software/media", or "Acceptable Encryption Types". These should be readily available and trained to users.
+
+- Core Technologies should be configured to safe guidelines. Core technologies are the required technologies to run your business. These could be Windows, Mac, Linux, Android, and IOS operating systems but are also things like productivity suites (Microsoft Office), development stacks (git, etc.), and infrastructure (firewalls, switches, routers, hypervisors, baremetal systems, etc). These are the core things which enable businesses to function, they need to be configured appropraitely regardless of additional technology stacks. These should be well designed and periodically reviewed.
+
+- Supporting technologies should be configured with safe guidelines as well. These are the technologies which support productivity, security, availability, and other positive attributes in a business. These technologies are things like monitoring systems, antivirus, MDM technologies, and so forth. They are often easier to implement but often have dependencies on the proper setup of core technologies. A common flaw faced by an organization might be deploying iPhones to their employees with an MDM but not setting up a corporate Apple ID which then allows data on those devices to reside in the users iCloud accounts. These should be well designed and periodically reviewed.
+
+- Security functions. A non-exhaustive list: Incident Response. Security Operations/SOC. Security Architecture. Risk Management. Security Leadership. Security Governance. People Security/Physical Security. AppSec/DevSec.
