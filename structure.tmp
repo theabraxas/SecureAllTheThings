@@ -1,12 +1,14 @@
 Objects:
 * Tutorials
-* Descriptions
-* Pathways
-* Configurations
-* Scripts
-* Samples
-* Policies/Procedures/Standards
-* Processes
+* Descriptions (functions, platforms, concepts etc)
+* Pathways (how to mature, CMMC, etc.)
+* Configurations (the settings to select and why)
+* Scripts (to make changes or answer questions)
+* Samples (templates to get started with - risk registers, etc.)
+* Policies/Procedures/Standards (duh)
+* Processes (how-to guides for functional things like collective evidence or dealing with phishing)
+* Binaries/executables/git projects (resources)
+
 
 Running a security program involves a lot of things.
 

@@ -1,0 +1,6 @@
+Level one - external resources/gateway resources
+Level two - internal super sensitive / RDP / Bastion
+Level three - as much as makes sense.
+
+Distinguish kinds of MFA that make sense (e.g. tokens, role of behavior attributes (ip ranges, time of day, etc.).
+Distinguish business models which tie in to this stuff.

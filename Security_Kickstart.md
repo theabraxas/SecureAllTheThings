@@ -4,9 +4,10 @@ This section focuses on some of the most impactful configurations, systems, and 
 # Questions
 
 Size of organization
+Industry Sector
 Size of external assets/perimeter
 Types of valued assets 
-Platforms in use
+Platforms/systems in use
 Goals/Objectives
 Size of IT, IS, Compliance, Legal, HR, and so on.
 Basic technologies questionnaire.
@@ -27,8 +28,9 @@ Basic technologies questionnaire.
 * Cloud services vs on-prem/local services
 
 # Key artifacts to start with
-Define IR levels
-Define asset types & risks
+Define IR goals
+Define asset types
+Create inventory of risk types
 List of perimeter assets
 List of internal networks
 List of sites/mapped subnets
