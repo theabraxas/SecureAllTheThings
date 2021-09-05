@@ -1,0 +1,20 @@
+
+* How to run a risk assessment
+* How to find external assets
+* How to record an incident
+* How to take a forensic image w/ toolname
+* How to search for common data in a log management system (ip address, hash, etc.)
+* How to setup an IDS for a physical/virtual network
+
+
+Example function:
+Asset management is a function of a well running information security and IT program. In order to effectively perform asset management there must be a policy defining what assets should be managed. This policy should define asset types and the attributes which need to be captured for the assets. The organization will need to have a repository to store the data - this could be a spreadsheet or a full-blown professional asset management system. Once a system exists to store the asset attributes there must be an ability - preferably automatic - to capture and update the attributes on a certain cadence. The information should then be reviewed for certain indicators and reported back to the business. There should be further procedures to determine if assets are being missed in the process and corrective actions should be issued. This data should also feed in to or be informed by backup mgmt/dr/bcp program.
+
+Asset managmenet
+- Contains 'policy' -> informs general requirements (minimum attributes, scoped devices)
+- Requires 'system' to store/collect data
+-- Requires scripts/tutorials
+-- Requires scope & exception process
+- Requires 'process' to collect and record data
+- Has dependencies on location of assets
+- Has dependencies on continuity/dr/backup information

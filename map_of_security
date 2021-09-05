@@ -1,3 +1,5 @@
+// I don't like this grouping, remake and build out later. Map should reflect functional areas, what they depend on, how they connect/depend on eachother.
+
 People
 * How do 'humans' fit in security
 * How to train them
