@@ -1,0 +1,41 @@
+This assumes the following:
+
+* You have some sort of virtual environment where you can deploy a few VMs
+* You have access to deploy solutions on the company network & configure spans from core switches
+* You have access to servers in the environment to deploy software
+* You have access to endpoints in the environment to deploy software
+* You have permission from the company to perform these actions
+
+Some quick wins:
+* Deploy graylog (start as a single node unless you have > ~1000 devices to manage)
+    This should be a matter of deploying the OVA or docker container & having storage
+        Configure a unique port for each input
+        Configure a custom rule to move messages to different streams based on the inputs
+        Configure a custom index for each stream
+    Configure a winlogbeat, file beat, and/or nxlog config for each 
+    Deploy wlb agents to each endpoint and confirm logs are being received
+
+* Deploy SecurityOnion or Arkime in each network. Span the ingress/egress interfaces from the network to the solution
+
+* Turn on essential logging features for systems (Group Policy; Sysmon, etc.)
+
+* Deploy EDR & Endpoint Proteciton solutions
+
+* Create an acceptable use policy
+
+* Create an information security policy
+
+* Run an asset discovery tool & export to a list periodically
+
+* Create a risk register
+
+* Create a fixed cadence & evidence collection system for periodic information security tasks
+
+* Create an incident management/ticketing system
+
+* Get a 'report phishing' button
+
+* Set up a vulnerability scanner.
+
+
+
